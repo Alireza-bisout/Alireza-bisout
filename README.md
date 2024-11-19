@@ -24,4 +24,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Alireza-bisout&icon=10&color=0)](https://visitcount.itsvg.in)
 
+<a href=#><img src="contributions.svg"></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
